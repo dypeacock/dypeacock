@@ -1,4 +1,7 @@
 ### Hi there 👋
+My name is Dylan and I am a Second year student at Loughborough University, studying computer science!<br>
+I am new to GitHub and figuring everything out, so I currently do not have any projects! <br>
+How to reach me : D.N.Peacock-22@student.lboro.ac.uk
 
 <!--
 **dypeacock/dypeacock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
