@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer/Artist/Creative)`**
 
-I'm a Second Year Commputer Science student at Loughborough University. I am an avid learner and enjoy the complex challenges of software development.
+I'm a Second Year Commputer Science student at Loughborough University. I am an avid learner and enjoy the complex challenges of software development. I enjoy playing sports, especially rugby. I grew up in Lyon, France, and speak fluent French!
 
 #
 
@@ -15,6 +15,8 @@ I'm a Second Year Commputer Science student at Loughborough University. I am an 
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain.svg" />
 <br/>
+
+<!--
 
 #
 
@@ -37,7 +39,7 @@ A career in software development appeals to me for multiple reasons. Software an
 When the Apple Vision Pro was launched in June of this year, I was quite sceptical as to how the device would perform and whether it would live up to the promises Apple had made about it. Spatial computing seems to be the next logical interface after mobile and desktop, blurring the lines between digital objects and the real world. Apple ran the risk of making another Virtual Reality headset without pushing the boundaries of what the technology could potentially achieve, but what the Vision Pro represents is a major leap in Augmented Reality technology, offering advanced features such as high resolution displays, precise motion tracking, immersive spatial audio and an improved gesture recognition which elevate the user experience. As a default, the product comes with a web browser and a range of multimedia apps that you might expect from a desktop or a mobile device, but what excites me is the range of potential applications this headset opens up for the future. The headset could offer diverse applications in domains such as gaming, eductaion, productivity, design, healthcare and more. For instance it could enable immersive gaming experiences, interactive educational content, advanced visualisation for healthcare professionals or innovative ways of accessing information and communication. Apple's commitment to providing robust developer tools and APIs could lead to the creation of a wide range of AR applications specifically tailored for the headset, and various platforms are already working on producing optimised content for the device, including the likes of Disney. I believe AR is in it’s early stages of development, and will most likely take multiple years to settle, in the same way the mobile phone did in the early 2000’s, however it is an exciting frontier with many unexplored possibilities for creativity that I am eager to see flourish.
 </details>
  
-
+-->
 
 <!--
 <details>
