@@ -1,7 +1,5 @@
 ## Dylan Peacock 
 
-**`Digital Craftsman (Developer/Artist/Creative)`**
-
 I'm a Second Year Commputer Science student at Loughborough University. I am an avid learner and enjoy the complex challenges of software development. I enjoy playing sports, especially rugby. I grew up in Lyon, France, and speak fluent French!
 
 #
