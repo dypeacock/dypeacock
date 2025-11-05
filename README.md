@@ -1,6 +1,10 @@
 ## Dylan Peacock 
 
-I'm a Second Year Computer Science student at Loughborough University. I am an avid learner and enjoy the complex challenges of software development. I enjoy playing sports, especially rugby. I grew up in Lyon, France, and speak fluent French!
+I am a final-year computer science student at Loughborough University, currently working part-time as a
+software engineer in the SCADA Product Team at Ovarro alongside my studies. Under the supervision of
+Senior Lecturer Hui Fang, I am developing a mobile application that uses pose estimation to help patients
+recover from ankle injuries. Seeking a challenging and interesting role that allows for the development and
+application of my existing skills.
 
 #
 
