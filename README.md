@@ -1,10 +1,6 @@
 ## Dylan Peacock 
 
-I am a final-year computer science student at Loughborough University, currently working part-time as a
-software engineer in the SCADA Product Team at Ovarro alongside my studies. Under the supervision of
-Senior Lecturer Hui Fang, I am developing a mobile application that uses pose estimation to help patients
-recover from ankle injuries. Seeking a challenging and interesting role that allows for the development and
-application of my existing skills.
+Computer Science graduate from Loughborough University with a year of hands-on software engineering experience in a professional product team. At Ovarro, I contributed to production SCADA and telemetry systems across a multi-language codebase (Java, C++, JavaScript, SQL), working with PostgreSQL, Redis, Docker, and CI/CD pipelines within agile sprints. I was retained on a part-time basis into my final year: a recognition of the quality and consistency of my contributions. I bring strong object-oriented fundamentals, a thorough and data-driven approach to problem-solving, and a proven ability to work independently in complex, real-world codebases.
 
 #
 
